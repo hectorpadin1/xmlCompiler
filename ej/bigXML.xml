@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
+<nota>
+        <nota>
+            This is Text
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
+                <id>1</id>
+                <autor>Yo</autor>
+                <titulo>PL. Importante</titulo>
+                <fecha>25/10/2021 15:00</fecha>
+                I Also can write here
+                <nota>
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
+                    <id>1</id>
+                    <autor>Yo</autor>
+                    <titulo>PL. Importante</titulo>
+                    <fecha>25/10/2021 15:00</fecha>
+                    <descripcion>No olvidar las prácticas de PL!</descripcion>
+                </nota>
+                <descripcion>No olvidar las prácticas de PL!</descripcion>
+        </nota>
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
+        <id>1</id>
+        <autor>Yo</autor>
+        <titulo>PL. Importante</titulo>
+        <fecha>25/10/2021 15:00</fecha>
+        <descripcion>No olvidar las prácticas de PL!</descripcion>
+</nota>
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
+<!-- Lista de tareas -->
