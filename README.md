@@ -12,4 +12,4 @@ This parser is able to validate xml files taking into account the following cond
 * Comments can go on any line except before the header.
 * When a label is opened, it must be closed with the same label name.
 
-  Several test files, with descriptive names, have been left in order to test the above guidelines.
+Several test files, with descriptive names, have been left in order to test the above guidelines.
